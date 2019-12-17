@@ -1,7 +1,7 @@
 package main
 
 import (
-	. "github.com/dravinbox/arithmetic/sort"
+	. "github.com/dravinbox/arithmetic-go/sort"
 )
 
 func main(){
