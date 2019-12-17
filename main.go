@@ -14,7 +14,11 @@ func main(){
 	//iSort.Sort(arr)
 
 	//冒泡排序
-	iSort = BubbleSort{}
+	//iSort = BubbleSort{}
+	//iSort.Sort(arr)
+
+	//插入排序
+	iSort = InsertionSort{}
 	iSort.Sort(arr)
 
 
